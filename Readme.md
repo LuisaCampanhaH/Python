@@ -127,12 +127,4 @@ cd dia-001
 python main.py
 ```
 
----
 
-<div align="center">
-
-Feito com 💙 e muito ☕ por **[seu nome aqui]**
-
-⭐ Se esse repo te inspirou, deixa uma estrela!
-
-</div>
